@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Enter Name"; ObjectID = "DQu-uf-Kvj"; */
+"DQu-uf-Kvj.text" = "Enter Name";
+
+/* Class = "UIButton"; configuration.title = "Welcome"; ObjectID = "KTE-eu-iWf"; */
+"KTE-eu-iWf.configuration.title" = "Welcome";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KTE-eu-iWf"; */
+"KTE-eu-iWf.normalTitle" = "Button";
